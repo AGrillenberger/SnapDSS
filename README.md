@@ -15,3 +15,10 @@ Details on Snap!DSS can be found in a conference paper by Andreas Grillenberger 
 ![example2](https://raw.githubusercontent.com/FAU-DDI/SnapDSS/master/Example2.png)
 
 ![example3](https://raw.githubusercontent.com/FAU-DDI/SnapDSS/master/Example3.jpg)
+
+## Contact
+
+Andreas Grillenberger
+Computing Education Research Group
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+<andreas.grillenberger@fau.de>
